@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-discrete-uniform@esm/index.mjs';
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-discrete-uniform@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-discrete-uniform@esm/index.mjs';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-discrete-uniform@v0.2.1-esm/index.mjs';
 ```
 
 #### discreteUniform( N, a, sa, b, sb, out, so\[, options] )
@@ -199,7 +199,7 @@ The function accepts the same `options` as documented above for `discreteUniform
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@esm/index.mjs';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@esm/index.mjs';
 import logEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@esm/index.mjs';
-import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-discrete-uniform@esm/index.mjs';
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-discrete-uniform@v0.2.1-esm/index.mjs';
 
 // Specify a PRNG seed:
 var opts = {
