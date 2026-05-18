@@ -244,6 +244,7 @@ logEach( 'x1[%d] = %d; x2[%d] = %d', idx, x1, idx, x2 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/random-discrete-uniform`][@stdlib/random/discrete-uniform]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a discrete uniform distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/discrete-uniform`][@stdlib/random/base/discrete-uniform]</span><span class="delimiter">: </span><span class="description">discrete uniform distributed pseudorandom numbers.</span>
 -   <span class="package-name">[`@stdlib/random-array/discrete-uniform`][@stdlib/random/array/discrete-uniform]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a discrete uniform distribution.</span>
 -   <span class="package-name">[`@stdlib/random-strided/uniform`][@stdlib/random/strided/uniform]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from a continuous uniform distribution.</span>
@@ -331,6 +332,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 <!-- <related-links> -->
+
+[@stdlib/random/discrete-uniform]: https://github.com/stdlib-js/random-discrete-uniform
 
 [@stdlib/random/base/discrete-uniform]: https://github.com/stdlib-js/random-base-discrete-uniform
 
